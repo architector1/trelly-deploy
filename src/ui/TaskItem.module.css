@@ -1,0 +1,23 @@
+.task {
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.default {
+    border: 5px solid black;
+    background: white;
+    color: black;
+}
+
+
+
+.selected {
+    border-color: blue;
+}
+
+.taskTitle {
+    text-decoration: line-through;
+}
+
