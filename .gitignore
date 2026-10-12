@@ -12,7 +12,6 @@ dist
 dist-ssr
 *.local
 trelly-deploy
-.env
 
 # Editor directories and files
 .vscode/*
